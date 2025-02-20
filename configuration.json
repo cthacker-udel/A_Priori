@@ -1,0 +1,6 @@
+{
+    "appName": "APriori Example",
+    "masterUrl": "local",
+    "bindAddress": "localhost",
+    "bindPort": "4050"
+}
